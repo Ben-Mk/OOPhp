@@ -29,6 +29,5 @@ echo $Ben->name;
 echo $Ben->setter('Jane');
 echo $Ben->getter();
 $Ben->hello();
-
 ?>
 
